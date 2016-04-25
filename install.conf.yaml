@@ -14,3 +14,4 @@
   - sh ./velvet/install.sh nvim
   - git config --global user.email "michael@webdesserts.com"
   - git config --global user.name "Michael Mullins"
+  - git config --global push.default simple
