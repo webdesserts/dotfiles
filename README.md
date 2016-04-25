@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/webdesserts/dotfiles.png?label=ready&title=Ready)](https://waffle.io/webdesserts/dotfiles)
 My dotfiles
 ===========
 Some dotfiles for working with a remote server. For now, this pairs with a
